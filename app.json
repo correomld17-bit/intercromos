@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "intercromos",
+    "slug": "intercromos",
+    "version": "1.0.0",
+    "userInterfaceStyle": "automatic",
+    "android": {
+      "package": "com.intercromos.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f6aedfc3-2e67-4684-8716-2a8e3c31c069"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/f6aedfc3-2e67-4684-8716-2a8e3c31c069"
+    },
+    "ios": {}
+  }
+}

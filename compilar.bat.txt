@@ -1,0 +1,5 @@
+@echo off
+set EAS_NO_VCS=1
+set EAS_PROJECT_ROOT=C:\Users\rodil\Downloads\intercromos-expo\intercromos\mobile
+npx eas build -p android
+pause
